@@ -1,0 +1,11 @@
+.formEle{
+    margin:5px;
+
+}
+label{
+    display:block;
+}
+.formFld{
+    width:100%;
+    padding:5px;
+}

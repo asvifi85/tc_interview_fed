@@ -1,0 +1,51 @@
+.banner{
+    color:blue;
+    font-weight: bold;
+    font-size: 15px;
+}
+.container{
+    margin:30px;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:4px;
+}
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background:#ebebeb;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 2.5em;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    margin: 3%;
+    padding-top: 16px;
+    box-sizing: border-box;
+}
+
+.activeCircle {
+   
+    color:#fff;
+    background:#000;
+}
+.line {
+    display: inline-block;
+    height:1px;
+    border-bottom: 1px  solid #ccc;
+    width:100px;
+}
+.subtxt{
+    font-size: 11px;
+    color:#000;
+}
+
+.footer{
+    display: flex;
+    justify-content:flex-end;
+    align-content: space-around
+}
+.footer button {
+   margin:10px;
+}

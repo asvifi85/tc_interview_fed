@@ -1,0 +1,13 @@
+.genereBox{
+    padding:25px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    display:inline-block;
+    min-width:100px;
+    margin:10px;
+
+}
+.genereBox.activeBox{
+    background:#000;
+    color:#fff;
+}
